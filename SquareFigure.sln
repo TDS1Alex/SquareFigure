@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareFigure", "SquareFigure\SquareFigure.csproj", "{DF4B528A-C5F4-4E47-A0F4-2E7798D24343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareFigure", "SquareFigure\SquareFigure.csproj", "{DF4B528A-C5F4-4E47-A0F4-2E7798D24343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareFigure.Test", "SquareFigure.Test\SquareFigure.Test.csproj", "{03C4983C-EE3C-40B6-BC63-4DFE198AD7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{1B9FCB33-5768-4791-A755-21160709C3CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DF4B528A-C5F4-4E47-A0F4-2E7798D24343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF4B528A-C5F4-4E47-A0F4-2E7798D24343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF4B528A-C5F4-4E47-A0F4-2E7798D24343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C4983C-EE3C-40B6-BC63-4DFE198AD7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C4983C-EE3C-40B6-BC63-4DFE198AD7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C4983C-EE3C-40B6-BC63-4DFE198AD7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C4983C-EE3C-40B6-BC63-4DFE198AD7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9FCB33-5768-4791-A755-21160709C3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9FCB33-5768-4791-A755-21160709C3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9FCB33-5768-4791-A755-21160709C3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9FCB33-5768-4791-A755-21160709C3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
