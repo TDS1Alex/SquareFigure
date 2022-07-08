@@ -47,3 +47,5 @@ C:\Users\sharv\source\repos\Задания для собеседований\Squ
 C:\Users\sharv\source\repos\Задания для собеседований\SquareFigure\SquareFigure\obj\Debug\net5.0\ref\SquareFigure.dll
 C:\Users\sharv\source\repos\Задания для собеседований\SquareFigure\SquareFigure\obj\Debug\net5.0\SquareFigure.pdb
 C:\Users\sharv\source\repos\Задания для собеседований\SquareFigure\SquareFigure\obj\Debug\net5.0\SquareFigure.genruntimeconfig.cache
+C:\Users\sharv\source\repos\Задания для собеседований\SquareFigure\SquareFigure\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\sharv\source\repos\Задания для собеседований\SquareFigure\SquareFigure\bin\Debug\net5.0\ClassLibrary.pdb

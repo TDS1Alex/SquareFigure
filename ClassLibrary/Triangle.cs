@@ -8,9 +8,9 @@ namespace ClassLibrary
 {
     public class Triangle: Figure
     {
-        double FirstSide { get; }
-        double SecondSide { get; }
-        double ThirdSide { get; }
+        private double FirstSide { get; }
+        private double SecondSide { get; }
+        private double ThirdSide { get; }
 
         public Triangle(double firstSide, double secondSide, double thirdSide)
         {

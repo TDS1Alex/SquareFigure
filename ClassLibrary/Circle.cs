@@ -8,7 +8,7 @@ namespace ClassLibrary
 {
     public class Circle: Figure
     {
-        public double Radius {get;}
+        private double Radius { get; }
 
         public Circle(double radius)
         {
@@ -17,7 +17,8 @@ namespace ClassLibrary
 
         public override double Square()
         {
-            if (Radius <= 0) throw new ArgumentOutOfRangeException("Радиус не может быть отрицательным и равняться нулю");
+            if (Radius <= 0) 
+                throw new ArgumentOutOfRangeException("Радиус не может быть отрицательным и равняться нулю");
             return Math.PI * Math.Pow(Radius, 2);          
         }
     }
